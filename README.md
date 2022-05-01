@@ -20,4 +20,3 @@
 - Wysyla dane na dc
 - nie wykrywalne
 
-## 📚 Contributions
